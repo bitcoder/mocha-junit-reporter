@@ -1,5 +1,6 @@
 'use strict';
 
+
 var xml = require('xml');
 var Base = require('mocha').reporters.Base;
 var fs = require('fs');
